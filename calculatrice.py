@@ -8,4 +8,4 @@ def division(a, b):
 
 def soustraction(a, b):
     # Bug volontaire pour tester l'échec CI
-    return a + b
+    return a - b
